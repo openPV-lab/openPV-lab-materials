@@ -9,7 +9,7 @@
 "molecular_weight_calc_method": "chemdraw",
 "smiles": "CCCCCCCCCCCC1=C(/C=C2/C(C(C=CC([*])=C3)=C3C2=O)=C(C#N)\\C#N)SC4=C1SC5=C4N(CC(CCCCCCCC)CCCCCCCCCC)C6=C5C7=NSN=C7C8=C6N(CC(CCCCCCCC)CCCCCCCCCC)C9=C8SC%10=C9SC(/C=C%11C(C(C=C(C%12=CC=C([*])S%12)C=C%13)=C%13C\\%11=C(C#N)/C#N)=O)=C%10CCCCCCCCCCC",
 "classification": ["organic-semiconductor","organic-polymer"],
-"cas_number": "n.a.",
+"cas_number": "",
 "mol_file": "PY-IT.mol",
 "chemdraw_file": "PY-IT.cdxml",
 "ID": ""
