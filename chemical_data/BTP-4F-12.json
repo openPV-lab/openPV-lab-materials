@@ -8,7 +8,7 @@
 "molecular_weight_units": "kg/mol",
 "molecular_weight_calc_method": "chemdraw",
 "smiles": "O=C1C2=CC(F)=C(F)C=C2C(/C1=C/C(S3)=C(CCCCCCCCCCC)C(S4)=C3C5=C4C(C6=NSN=C6C7=C8N(C9=C7SC%10=C9SC(/C=C%11/C(C%12=CC(F)=C(F)C=C%12C%11=O)=C(C#N)\\C#N)=C%10CCCCCCCCCCC)CC(CCCCCC)CCCC)=C8N5CC(CCCC)CCCCCC)=C(C#N)/C#N",
-"type": "",
+"classification": ["organic-semiconductor","organic-molecule"],
 "cas_number": "2389125-23-7",
 "mol_file": "BTP-4F-12.mol",
 "chemdraw_file": "BTP-4F-12.cdxml",

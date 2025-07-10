@@ -8,7 +8,7 @@
 "molecular_weight_units": "kg/mol",
 "molecular_weight_calc_method": "manual",
 "smiles": "[*]C(S1)=CC=C1C2=C3C(N=C(OCC(CCCCCCCC)CCCCCC)C=N3)=C([*])C(F)=C2F",
-"type": "polymer",
+"classification": ["organic-semiconductor","organic-polymer"],
 "cas_number": "2270233-86-6",
 "mol_file": "PTQ10.mol",
 "chemdraw_file": "PTQ10.cdxml",

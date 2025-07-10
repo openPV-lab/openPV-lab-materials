@@ -8,7 +8,7 @@
 "molecular_weight_units": "kg/mol",
 "molecular_weight_calc_method": "manual",
 "smiles": "[*]C1=CC=C(C2=CC(C(OCC(CCCCCC)CCCC)=O)=C(/C=C/C3=C(C(OCC(CCCCCC)CCCC)=O)C=C([*])S3)S2)S1",
-"type": "polymer",
+"classification": ["organic-semiconductor","organic-polymer"],
 "cas_number": "",
 "mol_file": "PTVT-T.mol",
 "chemdraw_file": "PTVT-T.cdxml",

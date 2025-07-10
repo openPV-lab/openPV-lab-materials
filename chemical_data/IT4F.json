@@ -8,7 +8,7 @@
 "molecular_weight_units": "kg/mol",
 "molecular_weight_calc_method": "chemdraw",
 "smiles": "N#C/C(C#N)=C1\\C(C(C2=C1C=C(F)C(F)=C2)=O)=C\\C3=CC(SC4=C5C(C6=CC=C(CCCCCC)C=C6)(C7=CC=C(CCCCCC)C=C7)C8=CC(C9=C(C%10(C%11=CC=C(CCCCCC)C=C%11)C%12=CC=C(CCCCCC)C=C%12)C%13=C(C=C(/C=C(C(C%14=C%15C=C(F)C(F)=C%14)=O)/C%15=C(C#N)\\C#N)S%13)S9)=C%10C=C48)=C5S3",
-"type": "",
+"classification": ["organic-semiconductor","organic-molecule"],
 "cas_number": "2097998-59-7",
 "mol_file": "IT4F.mol",
 "chemdraw_file": "IT4F.cdxml",

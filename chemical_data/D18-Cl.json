@@ -8,7 +8,7 @@
 "molecular_weight_units": "kg/mol",
 "molecular_weight_calc_method": "manual",
 "smiles": "[*]C1=CC2=C(C(SC(C3=C(CC(CCCC)CCCCCC)C=C(C4=CC5=C(C(SC(C6=CC(CC(CCCCCC)CCCC)=C([*])S6)=C7)=C7C8=NSN=C85)S4)S3)=C9)=C9C(C%10=CC(Cl)=C(CC(CC)CCCC)S%10)=C2S1)C%11=CC(Cl)=C(CC(CC)CCCC)S%11",
-"type": "polymer",
+"classification": ["organic-semiconductor","organic-polymer"],
 "cas_number": "n.a.",
 "mol_file": "D18-Cl.mol",
 "chemdraw_file": "D18-Cl.cdxml",
