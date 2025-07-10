@@ -1,0 +1,9 @@
+selfies
+rdkit
+numpy
+pandas
+matplotlib
+plotly
+jupyterlab
+mordredcommunity
+mols2grid

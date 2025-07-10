@@ -1,0 +1,16 @@
+{
+"name": "PM6",
+"iupac_name": "",
+"synonyms": ["PM6", "PBDB-T-F", "PBDB-TF","poly[(2,6-(4,8-bis(5-(2-ethylhexyl)-4-fluorothiophen-2-yl)-benzo[1,2-b:4,5-b']dithiophene))-alt-(5,5-(1',3'-di-2-thienyl-5',7'-bis(2-ethylhexyl)benzo[1',2'-c:4',5'-c']dithiophene-4,8-dione))]"],
+"chemical_formula": "C68H76F2O2S8",
+"molecular_weight": "",
+"repeat_unit_weight": "1.21984",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "manual",
+"smiles": "[*]C1=CC2=C(C(SC(C3=CC=C(C4=C5C(C(C6=C(CC(CC)CCCC)SC(CC(CC)CCCC)=C6C5=O)=O)=C(C7=CC=C([*])S7)S4)S3)=C8)=C8C(C9=CC(F)=C(CC(CC)CCCC)S9)=C2S1)C%10=CC(F)=C(CC(CC)CCCC)S%10",
+"type": "polymer",
+"cas_number": "1802013-83-7",
+"mol_file": "PM6.mol",
+"chemdraw_file": "PM6.cdxml",
+"ID": ""
+}

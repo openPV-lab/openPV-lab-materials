@@ -1,0 +1,16 @@
+{
+"name": "BTP-4F-12",
+"iupac_name": "2,2'-((2Z,2'Z)-((12,13-bis(2-butyloctyl)-3,9-diundecyl-12,13-dihydro-[1,2,5]thiadiazolo[3,4-e]thieno[2',3'':4',5']thieno[2',3':4,5]pyrrolo[3,2-g]thieno[2',3':4,5]thieno[3,2-b]indole-2,10-diyl)bis(methanylylidene))bis(5,6-difluoro-3-oxo-2,3-dihydro-1H-indene-2,1-diylidene))dimalononitrile",
+"synonyms": ["BTP-4F-12","Y6-BO","Y12"],
+"chemical_formula": "C90H102F4N8O2S5",
+"molecular_weight": "1.56415",
+"repeat_unit_weight": "",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "chemdraw",
+"smiles": "O=C1C2=CC(F)=C(F)C=C2C(/C1=C/C(S3)=C(CCCCCCCCCCC)C(S4)=C3C5=C4C(C6=NSN=C6C7=C8N(C9=C7SC%10=C9SC(/C=C%11/C(C%12=CC(F)=C(F)C=C%12C%11=O)=C(C#N)\\C#N)=C%10CCCCCCCCCCC)CC(CCCCCC)CCCC)=C8N5CC(CCCC)CCCCCC)=C(C#N)/C#N",
+"type": "",
+"cas_number": "2389125-23-7",
+"mol_file": "BTP-4F-12.mol",
+"chemdraw_file": "BTP-4F-12.cdxml",
+"ID": ""
+}

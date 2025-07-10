@@ -1,0 +1,16 @@
+{
+"name": "PCE10",
+"iupac_name": "",
+"synonyms": ["PTB7-Th", "PCE10", "PBDTTT-EFT","poly[4,8-bis(5-(2-ethylhexyl)thiophen-2-yl)benzo[1,2-b;4,5-b']dithiophene-2,6-diyl-alt-(4-(2-ethylhexyl)-3-fluorothieno[3,4-b]thiophene-)-2-carboxylate-2-6-diyl]" ],
+"chemical_formula": "C49H57FO2S67",
+"molecular_weight": "",
+"repeat_unit_weight": "0.88936",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "manual",
+"smiles": "CCC(CC(S1)=CC=C1C2=C3C(SC([*])=C3)=C(C4=CC=C(S4)CC(CC)CCCC)C5=C2SC(C6=C7C(SC(C(OCC(CC)CCCC)=O)=C7F)=C([*])S6)=C5)CCCC",
+"type": "polymer",
+"cas_number": "n.a.",
+"mol_file": "PCE10.mol",
+"chemdraw_file": "PCE10.cdxml",
+"ID": ""
+}

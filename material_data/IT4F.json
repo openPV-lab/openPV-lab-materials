@@ -1,0 +1,16 @@
+{
+"name": "IT4F",
+"iupac_name": "2-[2-[[20-[[1-(dicyanomethylidene)-5,6-difluoro-3-oxoinden-2-ylidene]methyl]-12,12,24,24-tetrakis(4-hexylphenyl)-5,9,17,21-tetrathiaheptacyclo[13.9.0.03,13.04,11.06,10.016,23.018,22]tetracosa-1(15),2,4(11),6(10),7,13,16(23),18(22),19-nonaen-8-yl]methylidene]-5,6-difluoro-3-oxoinden-1-ylidene]propanedinitrile",
+"synonyms": ["ITIC-4F", "ITIC-2F", "ITIC-F", "ITIC-DF"],
+"chemical_formula": "C94H78F4N4O2S4",
+"molecular_weight": "1.49992",
+"repeat_unit_weight": "",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "chemdraw",
+"smiles": "N#C/C(C#N)=C1\\C(C(C2=C1C=C(F)C(F)=C2)=O)=C\\C3=CC(SC4=C5C(C6=CC=C(CCCCCC)C=C6)(C7=CC=C(CCCCCC)C=C7)C8=CC(C9=C(C%10(C%11=CC=C(CCCCCC)C=C%11)C%12=CC=C(CCCCCC)C=C%12)C%13=C(C=C(/C=C(C(C%14=C%15C=C(F)C(F)=C%14)=O)/C%15=C(C#N)\\C#N)S%13)S9)=C%10C=C48)=C5S3",
+"type": "",
+"cas_number": "2097998-59-7",
+"mol_file": "IT4F.mol",
+"chemdraw_file": "IT4F.cdxml",
+"ID": ""
+}

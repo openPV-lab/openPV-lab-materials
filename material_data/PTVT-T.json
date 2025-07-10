@@ -1,0 +1,16 @@
+{
+"name": "PTVT-T",
+"iupac_name": "",
+"synonyms": ["PTVT-T","poly(bis(2-butyloctyl)[2,2':5',2″-terthiophene]-4,4″-dicarboxylate-5,5'-diyl-vinylene)"],
+"chemical_formula": "C40H58O4S3",
+"molecular_weight": "",
+"repeat_unit_weight": "0.69908",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "manual",
+"smiles": "[*]C1=CC=C(C2=CC(C(OCC(CCCCCC)CCCC)=O)=C(/C=C/C3=C(C(OCC(CCCCCC)CCCC)=O)C=C([*])S3)S2)S1",
+"type": "polymer",
+"cas_number": "",
+"mol_file": "PTVT-T.mol",
+"chemdraw_file": "PTVT-T.cdxml",
+"ID": ""
+}

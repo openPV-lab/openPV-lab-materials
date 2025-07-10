@@ -1,0 +1,16 @@
+{
+"name": "ITIC",
+"iupac_name": "2-[2-[[20-[(Z)-[1-(dicyanomethylidene)-3-oxoinden-2-ylidene]methyl]-12,12,24,24-tetrakis(4-hexylphenyl)-5,9,17,21-tetrathiaheptacyclo[13.9.0.03,13.04,11.06,10.016,23.018,22]tetracosa-1(15),2,4(11),6(10),7,13,16(23),18(22),19-nonaen-8-yl]methylidene]-3-oxoinden-1-ylidene]propanedinitrile",
+"synonyms": ["ITIC"],
+"chemical_formula": "C94H82N4O2S4",
+"molecular_weight": "1.42796",
+"repeat_unit_weight": "",
+"molecular_weight_units": "kg/mol",
+"molecular_weight_calc_method": "chemdraw",
+"smiles": "C(#N)C(=C1/C(/C(C2=CC=CC=C12)=O)=C/C1=CC=2SC=3C=4C=C5C(C=6C=7SC(=CC7SC6C5=CC4C(C3C2S1)(C1=CC=C(C=C1)CCCCCC)C1=CC=C(C=C1)CCCCCC)C=C1C(C2=CC=CC=C2C1=O)=C(C#N)C#N)(C1=CC=C(C=C1)CCCCCC)C1=CC=C(C=C1)CCCCCC)C#N",
+"type": "",
+"cas_number": "1664293-06-4",
+"mol_file": "ITIC.mol",
+"chemdraw_file": "ITIC.cdxml",
+"ID": ""
+}
